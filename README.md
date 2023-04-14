@@ -54,7 +54,6 @@ Want to know more about me? [Check out my portfolio.](https://rivan-profile.verc
 ![](https://img.shields.io/badge/Tools-Canva-informational?style=flat-square&logo=canva&logoColor=white&color=754997)
 ![](https://img.shields.io/badge/Tools-WindowsServer-informational?style=flat-square&logo=microsoft&logoColor=white&color=754997)
 ![](https://img.shields.io/badge/Tools-IIS-informational?style=flat-square&logo=microsoft&logoColor=white&color=754997)
-![](https://img.shields.io/badge/Tools-IIS-informational?style=flat-square&logo=microsoft&logoColor=white&color=754997)
 ![](https://img.shields.io/badge/Tools-BusinessCentral-informational?style=flat-square&logo=microsoft&logoColor=white&color=754997)
   
 </p>
