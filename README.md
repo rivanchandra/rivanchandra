@@ -79,4 +79,6 @@ Want to know more about me? [Check out my portfolio.](https://rivan-profile.verc
 - [150 badges for github](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [How to create/use Github badge](https://shields.io/)
 - [Github badge logo](https://simpleicons.org/)
+- [Github readme streak stats](https://streak-stats.demolab.com/demo/)
+- [Github readme stats](https://github.com/anuraghazra/github-readme-stats)
 <!-- BLOG-POST-LIST:END -->
