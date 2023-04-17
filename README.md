@@ -11,6 +11,8 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 
 Want to know more about me? [Check out my portfolio.](https://rivan-profile.vercel.app/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 🛠 &nbsp; Skills
