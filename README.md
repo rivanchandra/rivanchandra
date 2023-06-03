@@ -11,6 +11,8 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 
 Want to know more about me? [Check out my portfolio.](https://rivan-profile.vercel.app/)
 
+Support me here [![](https://img.shields.io/badge/Support-Paypal-informational?style=flat-square&logo=paypal&logoColor=white&color=blue)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
