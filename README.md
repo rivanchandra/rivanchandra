@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://rivan-profile.verc
 Support me here [![](https://img.shields.io/badge/Support-Paypal-informational?style=flat-square&logo=paypal&logoColor=white&color=blue)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivanchandra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivanchandra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🛠 &nbsp; Skills
