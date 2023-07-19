@@ -8,10 +8,11 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 - 💼 I’m working as a Software developer and contributing to frontend and backend for building web applications.
 - ❤️ I love writing Javascript and building fun experiments on type-level
 - ⚡ In my free time read tech articles and working on projects
+- 🌱 The apps that you can enjoy [![](https://img.shields.io/badge/Lofi%20Music-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://lofsong.vercel.app/) [![](https://img.shields.io/badge/GOT%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
 
 Want to know more about me? [Check out my portfolio.](https://rivan-profile.vercel.app/)
 
-Support me here [![](https://img.shields.io/badge/Support-Paypal-informational?style=flat-square&logo=paypal&logoColor=white&color=blue)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
+Support me here [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round&logo=paypal&logoColor=white)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true&card_width=400&date_format=j%20M%5B%20Y%5D)](https://rivan-profile.vercel.app)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rivanchandra&layout=compact)](https://rivan-profile.vercel.app)
