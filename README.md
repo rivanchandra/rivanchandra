@@ -36,6 +36,7 @@ Support me here [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round
     
 ![](https://img.shields.io/badge/Style-Bootsrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=BDB554)
 ![](https://img.shields.io/badge/Style-MaterialUI-informational?style=flat-square&logo=mui&logoColor=white&color=BDB554)
+![](https://img.shields.io/badge/Style-PrimeReact-informational?style=flat-square&logo=aseprite&logoColor=white&color=BDB554)
     
 </p>
 <p>
