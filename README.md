@@ -10,7 +10,7 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 - ⚡ In my free time read tech articles and working on projects
 - 🌱 The apps that you can enjoy [![](https://img.shields.io/badge/Lofi%20Music-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://lofsong.vercel.app/) [![](https://img.shields.io/badge/GOT%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
 
-Want to know more about me? [Check out my portfolio.](https://rivan-profile.vercel.app/)
+Want to know more about me? [![](https://img.shields.io/badge/Check%20out%20my%20portfolio-1E90FF?style=flat-square&logoColor=white)](https://rivan-profile.vercel.app/)
 
 Support me here [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round&logo=paypal&logoColor=white)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
 
