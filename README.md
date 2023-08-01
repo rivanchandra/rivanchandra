@@ -75,12 +75,12 @@ Support me [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round&logo
   
 </details>
 
-## 📣 Resources that can help you to build awesome Readme
+## 📣 Resources that can help you to build awesome Readme Profile
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Github profile readme generator](https://arturssmirnovs.github.io/github-profile-readme-generator)
+- [Wanna make cool Github Profile? click me](https://github-profile-help.vercel.app/)
 - [150 badges for github](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [How to create/use Github badge](https://shields.io/)
 - [Github badge logo](https://simpleicons.org/)
