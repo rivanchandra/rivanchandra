@@ -8,11 +8,11 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 - 💼 I’m working as a Software developer and contributing to building web applications.
 - ❤️ I love writing Javascript and building fun experiments on type-level
 - ⚡ In my free time read tech articles and working on projects
-- 🌱 The apps that you can enjoy [![](https://img.shields.io/badge/Lofi%20Music-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://chillofy.vercel.app/) [![](https://img.shields.io/badge/Game%20of%20Throne%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
+- 🌱 Checkout some of my works! [![](https://img.shields.io/badge/Lofi%20Music-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://chillofy.vercel.app/) [![](https://img.shields.io/badge/Game%20of%20Throne%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
 
 Want to know more about me? [![](https://img.shields.io/badge/Check%20out%20my%20portfolio-1E90FF?style=flat-square&logoColor=white)](https://rivan-profile.vercel.app/)
 
-Support me [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round&logo=paypal&logoColor=white)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
+You can support me here [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round&logo=paypal&logoColor=white)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true&card_width=400&date_format=j%20M%5B%20Y%5D)](https://rivan-profile.vercel.app)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rivanchandra&layout=compact)](https://rivan-profile.vercel.app)
