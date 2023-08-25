@@ -80,7 +80,7 @@ You can support me here [![](https://img.shields.io/badge/PayPal-00457C?style=fl
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Wanna make cool Github Profile? click me](https://github-profile-help.vercel.app/)
+- [Wanna make cool Github Profile? click here](https://github-profile-help.vercel.app/)
 - [150 badges for github](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [How to create/use Github badge](https://shields.io/)
 - [Github badge logo](https://simpleicons.org/)
