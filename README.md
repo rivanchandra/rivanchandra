@@ -5,7 +5,7 @@
 
 I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/8/7/6/6/1606678_12018.gif" width="30"> from Indonesia.
 
-- 💼 I’m working as a Software developer and contributing to building web applications.
+- 💼 I’m working as a Software developer and contributing to building web applications since 2014
 - ❤️ I love writing Javascript and building fun experiments on type-level
 - ⚡ In my free time read tech articles and working on projects
 - 🌱 Checkout some of my works! [![](https://img.shields.io/badge/Lofi%20Music-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://chillofy.vercel.app/) [![](https://img.shields.io/badge/Game%20of%20Thrones%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
