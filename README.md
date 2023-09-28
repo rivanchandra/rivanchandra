@@ -8,7 +8,7 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 - 💼 Working as a Software developer and contributing to building web applications since 2014
 - ❤️ Love writing Javascript and building fun experiments on type-level
 - ⚡ In my free time read tech articles and working on projects
-- 🌱 Check out some of my works! [![](https://img.shields.io/badge/Lofi%20Music-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://chillofy.vercel.app/) [![](https://img.shields.io/badge/Game%20of%20Thrones%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
+- 🌱 Check out some of my works! [![](https://img.shields.io/badge/Chillofy-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://chillofy.vercel.app/) [![](https://img.shields.io/badge/Game%20of%20Thrones%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
 
 Want to know more about me? [![](https://img.shields.io/badge/Check%20out%20my%20portfolio-1E90FF?style=flat-square&logoColor=white)](https://rivan-profile.vercel.app/)
 
