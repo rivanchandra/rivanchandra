@@ -80,7 +80,7 @@ You can support me here [![](https://img.shields.io/badge/PayPal-00457C?style=fl
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start Github readme profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [How to start Github readme profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - [Checkout the Github readme profile builder!](https://github-profile-help.vercel.app/)
 - [150 badges for github](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [How to create/use Github badge](https://shields.io/)
