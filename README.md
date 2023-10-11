@@ -5,7 +5,7 @@
 
 I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/8/7/6/6/1606678_12018.gif" width="30"> from Indonesia.
 
-- 💼 Working as a Software developer and contributing to building web applications since 2014 
+- 💼 Working as a Software developer and contributing to building web applications since 2014
 - ❤️ Love writing Javascript and building fun experiments on type-level
 - ⚡ In my free time read tech articles and working on projects
 - 🌱 Check out some of my works! [![](https://img.shields.io/badge/Chillofy-F34E68?style=flat-round&logo=1001tracklists&logoColor=white)](https://chillofy.vercel.app/) [![](https://img.shields.io/badge/Game%20of%20Thrones%20Music-0000CC?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
@@ -81,7 +81,7 @@ You can support me here [![](https://img.shields.io/badge/PayPal-00457C?style=fl
 
 <!-- BLOG-POST-LIST:START -->
 - [How to start Github readme profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-- [Checkout the Github readme profile builder!](https://github-profile-help.vercel.app/)
+- [Checkout the Github readme profile builder that I made](https://github-profile-help.vercel.app/)
 - [150 badges for github](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [How to create/use Github badge](https://shields.io/)
 - [Github badge logo](https://simpleicons.org/)
