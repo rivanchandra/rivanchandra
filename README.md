@@ -5,7 +5,7 @@
 
 I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/8/7/6/6/1606678_12018.gif" width="30"> from Indonesia.
 
-- 💼 Working as a Software developer and contributing to building web applications since 2014 
+- 💼 Working as a Software developer and contributing to building web applications since 2014
 - ❤️ Love writing Javascript and building fun experiments on type-level
 - ⚡ In my free time read tech articles and working on projects
 - 🌱 Check out some of my works!
