@@ -31,7 +31,6 @@ You can support me here [![](https://img.shields.io/badge/PayPal-00457C?style=fl
 ![](https://img.shields.io/badge/Code-Jquery-informational?style=flat-square&logo=jquery&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat-square&logo=nextdotjs&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat-square&logo=vuedotjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-MYSQL-informational?style=flat-square&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=blue)
 
