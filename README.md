@@ -17,7 +17,7 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 
 Want to know more about me? [![](https://img.shields.io/badge/Check%20out%20my%20portfolio-1E90FF?style=flat-square&logoColor=white)](https://rivan-profile.vercel.app/)
 
-You can support me here [![](https://img.shields.io/badge/PayPal-00457C?style=flat-round&logo=paypal&logoColor=white)](https://paypal.me/rivanchandra?country.x=ID&locale.x=id_ID)
+You can support me here [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U0ZZ3NM)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true&card_width=400&date_format=j%20M%5B%20Y%5D)](https://rivan-profile.vercel.app)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rivanchandra&layout=compact)](https://rivan-profile.vercel.app)
