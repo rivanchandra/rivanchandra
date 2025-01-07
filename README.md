@@ -10,7 +10,7 @@ I am a Software Developer <img src="https://img1.picmix.com/output/stamp/normal/
 - ⚡ In my free time read tech articles and working on projects
 - 🌱 Check out some of my works!
 [![](https://img.shields.io/badge/Chillofy-F34E68?style=flat-round&logo=audacity&logoColor=white)](https://chillofy.vercel.app/)
-[![](https://img.shields.io/badge/GOT%20Music-4B0082?style=flat-round&logo=apple%20music&logoColor=white)](https://got-music.vercel.app/)
+[![](https://img.shields.io/badge/PetPat-048c80?style=flat-round&logo=foodpanda&logoColor=white)](https://chromewebstore.google.com/detail/petpat/ppfpaggnedkhedggdgiolgeoiglaaaed)
 [![](https://img.shields.io/badge/Image%20to%20Pixel-CD5C5C?style=flat-round&logo=materialdesignicons&logoColor=white)](https://image-to-pixel.vercel.app/)
 [![](https://img.shields.io/badge/Github%20Profile%20Helper-483D8B?style=flat-round&logo=github&logoColor=white)](https://github-profile-help.vercel.app/)
 
