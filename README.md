@@ -19,7 +19,6 @@ Want to know more about me? [![](https://img.shields.io/badge/Check%20out%20my%2
 
 You can support me here [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U0ZZ3NM)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rivanchandra&theme=transparent&hide_border=true&card_width=400&date_format=j%20M%5B%20Y%5D)](https://rivan-profile.vercel.app)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rivanchandra&layout=compact)](https://rivan-profile.vercel.app)
 ---
 
